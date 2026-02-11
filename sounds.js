@@ -123,9 +123,9 @@ export const sounds =
         "mp3": "/media/sounds/undertakers-bell_2UwFCIe.mp3"
     },
     {
-        "name": "I got this fahhhhhh",
+        "name": "Tornado Siren",
         "color": "rgb(255, 0, 0)",
-        "mp3": "/media/sounds/i-got-this-fahhhhhh.mp3"
+        "mp3": "/media/sounds/soundreality-civil-defense-siren-128262"
     },
     {
         "name": "Smoke Detector Beep",
@@ -9011,10 +9011,6 @@ export const sounds =
         "name": "hahahahahahah",
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/bahahahha.mp3"
-    },   
-    {
-        "name": "Tornado Siren",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "media/sounds/soundreality-civil-defense-siren-128262.mp3"  
     }
-   ]
+   
+]
