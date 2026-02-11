@@ -9016,5 +9016,11 @@ export const sounds =
         "name": "Test Button",
         "color": "rgb(255, 0, 0)",
         "mp3": "media/sounds/WORKWORKWORK.mp3"
+    },
+    {
+        "name": "Test Button",
+        "color": "rgb(255, 0, 0)",
+        "mp3": "media/sounds/soundreality-civil-defense-siren-128262.mp3"  
     }
+   
 ]
