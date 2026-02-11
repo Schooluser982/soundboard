@@ -9013,14 +9013,8 @@ export const sounds =
         "mp3": "/media/sounds/bahahahha.mp3"
     },   
     {
-        "name": "Test Button",
-        "color": "rgb(255, 0, 0)",
-        "mp3": "media/sounds/WORKWORKWORK.mp3"
-    },
-    {
-        "name": "Test Button",
+        "name": "Tornado Siren",
         "color": "rgb(255, 0, 0)",
         "mp3": "media/sounds/soundreality-civil-defense-siren-128262.mp3"  
     }
-   
-]
+   ]
