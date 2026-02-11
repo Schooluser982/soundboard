@@ -9012,8 +9012,9 @@ export const sounds =
         "color": "rgb(255, 0, 0)",
         "mp3": "/media/sounds/bahahahha.mp3"
     },
-    { "name": "Test Sound",
-      "color": "rgb(255, 0, 0)",
-      "mp3": "/media/sound/hitslab-upbeat-upbeat-music-333747.mp3"
-    }
+  { "name": "Test Sound",
+   "color": "rgb(255, 0, 0)",
+   "mp3": "/media/sounds/hitslab-upbeat-upbeat-music-333747.mp3" 
+  }
+ 
 ]
